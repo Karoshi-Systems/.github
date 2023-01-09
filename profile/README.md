@@ -1,6 +1,10 @@
 ## Karoshi Systems
 ### Developed with care
 
+<p align="center">
+  <img width="150" src="https://raw.githubusercontent.com/c-hgp/c-hgp/master/assets/mkdir.png" />
+</p>  
+
 <!--
 
 **Here are some ideas to get you started:**
