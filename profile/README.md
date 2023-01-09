@@ -1,17 +1,9 @@
-## Karoshi Systems
-### Developed with care
-
 <p align="center">
   <img width="150" src="https://github.com/Karoshi-Systems/.github/blob/main/KaroshiLogoWhite.svg" />
 </p>  
 
-<!--
 
-**Here are some ideas to get you started:**
+<h1 align="center">Karoshi Systems</h1>
+<h3 align="center">Developed with care</h3>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<h4 align="center">https://karoshi-systems.github.io/</h4>
