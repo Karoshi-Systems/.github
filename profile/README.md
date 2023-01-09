@@ -2,7 +2,7 @@
 ### Developed with care
 
 <p align="center">
-  <img width="150" src="https://raw.githubusercontent.com/c-hgp/c-hgp/master/assets/mkdir.png" />
+  <img width="150" src="https://github.com/Karoshi-Systems/.github/blob/main/KaroshiLogoWhite.svg" />
 </p>  
 
 <!--
