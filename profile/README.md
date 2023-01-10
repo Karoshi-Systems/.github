@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="150" src="https://github.com/Karoshi-Systems/.github/blob/main/KaroshiLogoWhite.svg" />
+  <img width="350" src="https://github.com/Karoshi-Systems/.github/blob/main/KaroshiLogoWhite.svg" />
 </p>  
 
 
